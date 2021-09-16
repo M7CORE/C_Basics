@@ -1,3 +1,6 @@
+//Prints a string in reverse
+//Maria Corella
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
